@@ -1,0 +1,1 @@
+Download all files into a folder. In Terminal, navigate to the folder you just unzipped the files into and launch the app with the command “python3 controller.py” If it fails to run you may need to install PyQt – run “pip3 install pyqt5”
